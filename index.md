@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my TechnologyFoundHere"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This site is under construction. Head on over to https://foundhere.technology
