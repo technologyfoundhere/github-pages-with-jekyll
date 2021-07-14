@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my TechnologyFoundHere on GitHub"
 ---
 
-I'm glad you are here. I plan to talk about ...
+for now, visit https://foundhere.technology
